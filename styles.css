@@ -1,0 +1,21 @@
+html, body {
+    background-color: white;
+    font-family: Arial;
+    width: 100%;
+  }
+  
+  div {
+    padding: 24px;
+  }
+  
+  .welcome {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+  }
+  
+  .place-img {
+    height: 40%;
+    width: 40%;
+  }
